@@ -16,6 +16,7 @@
 		1BAB4A231ED1785800B89B83 /* newTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BAB4A221ED1785800B89B83 /* newTests.m */; };
 		1BAB4A2E1ED1785800B89B83 /* newUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BAB4A2D1ED1785800B89B83 /* newUITests.m */; };
 		1BAB4A401ED17AB900B89B83 /* My.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BAB4A3F1ED17AB900B89B83 /* My.m */; };
+		1BAB4A431ED1860400B89B83 /* DD.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BAB4A421ED1860400B89B83 /* DD.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		1BAB4A2F1ED1785800B89B83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1BAB4A3E1ED17AB900B89B83 /* My.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = My.h; sourceTree = "<group>"; };
 		1BAB4A3F1ED17AB900B89B83 /* My.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = My.m; sourceTree = "<group>"; };
+		1BAB4A411ED1860400B89B83 /* DD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DD.h; sourceTree = "<group>"; };
+		1BAB4A421ED1860400B89B83 /* DD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DD.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				1BAB4A0F1ED1785800B89B83 /* ViewController.m */,
 				1BAB4A3E1ED17AB900B89B83 /* My.h */,
 				1BAB4A3F1ED17AB900B89B83 /* My.m */,
+				1BAB4A411ED1860400B89B83 /* DD.h */,
+				1BAB4A421ED1860400B89B83 /* DD.m */,
 				1BAB4A111ED1785800B89B83 /* Main.storyboard */,
 				1BAB4A141ED1785800B89B83 /* Assets.xcassets */,
 				1BAB4A161ED1785800B89B83 /* LaunchScreen.storyboard */,
@@ -282,6 +287,7 @@
 				1BAB4A401ED17AB900B89B83 /* My.m in Sources */,
 				1BAB4A0D1ED1785800B89B83 /* AppDelegate.m in Sources */,
 				1BAB4A0A1ED1785800B89B83 /* main.m in Sources */,
+				1BAB4A431ED1860400B89B83 /* DD.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
